@@ -14,8 +14,8 @@ away_team = "Manchester United"
 home_color = "#034694" 
 away_color = "#DA291C"
 
-home_team_logo <- "https://i.imgur.com/RlXYW46.png"
-away_team_logo <- "https://i.imgur.com/r6Y9lT8.png"
+home_team_logo <- "https://github.com/DrJohan/mufc_19_20season/blob/main/assets/ChelseaFC.png"
+away_team_logo <- "https://github.com/DrJohan/mufc_19_20season/blob/main/assets/ManUtdFC.png"
 
 match_date <- "Nov 28, 2021"
 league_year <- "Premier League 2021-2022"
